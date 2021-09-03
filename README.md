@@ -1,5 +1,4 @@
 # NewAgePong
-#### Video Demo: https://youtu.be/Iv72zIpGsYI
 #### Description: An updated version of the video game Pong
 My project is an updated version of the game Pong. I have always liked Pong because
  it's one of the original games that has stood the test of time and it's really fun
